@@ -1,0 +1,58 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Hardhat artifacts and cache
+artifacts/
+cache/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store               # macOS
+Thumbs.db               # Windows
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# IPFS-generated files (if applicable)
+.ipfs/
+.ipfs_hashes/
+
+# Coverage reports
+coverage/
+coverage.json
+lcov-report/
+
+# Test output
+test-results/
+test-output/
+mochawesome-report/
+
+# Build output
+dist/
+build/
+
+# Optional lock files for other package managers
+yarn.lock
+pnpm-lock.yaml
+
+# Miscellaneous
+*.env.*
+*.orig
+*.rej

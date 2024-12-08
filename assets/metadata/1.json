@@ -1,0 +1,11 @@
+{
+  "name": "Source Block Founders NFT - Edition 1 of 4",
+  "description": "This is Edition 1 of 4 from the Source Block Founders NFT collection, a unique representation of the heart of the Cryptosphere.",
+  "image": "ipfs://<bafybeiags3fa7wkkroxkm4feuicgtzk4i5izkqytsrcfryd2uc3dksjrlq>",
+  "attributes": [
+    { "trait_type": "Theme", "value": "Founders Edition" },
+    { "trait_type": "Rarity", "value": "Limited Edition" },
+    { "trait_type": "Edition", "value": "1 of 4" },
+    { "trait_type": "Category", "value": "Special" }
+  ]
+}
